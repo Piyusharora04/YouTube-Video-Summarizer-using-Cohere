@@ -1,0 +1,5 @@
+requests
+youtube_transcript_api
+IPython
+streamlit
+gitignore
